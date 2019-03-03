@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import os
 import cv2
 
+#place dataset into CNN
 DATADIR = "/Users/varinder/Desktop/Datasets/PetImages/PetImages"
 CATEGORIES = ["Dog", "Cat"]
 
